@@ -1,6 +1,11 @@
 ## Hi there 👋! I'm Zhongyu Chen.
 - 🌱 I’m currently learning robotics, especially in loco-manipulation and whole-body-control.
 - 📫 How to reach me: chenzhongyu56@gmail.com
+- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Czy213hd/Czy213hd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Czy213hd/Czy213hd/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Czy213hd/Czy213hd/output/github-snake.svg" />
+</picture>
 <!--
 **Czy213hd/Czy213hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
