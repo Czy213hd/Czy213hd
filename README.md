@@ -1,6 +1,6 @@
 ## Hi there 👋! I'm Zhongyu Chen.
-🌱 I’m currently learning robotics, especially in loco-manipulation and whole-body-control.
-📫 How to reach me: chenzhongyu56@gmail.com
+-🌱 I’m currently learning robotics, especially in loco-manipulation and whole-body-control.
+-📫 How to reach me: chenzhongyu56@gmail.com
 <!--
 **Czy213hd/Czy213hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
