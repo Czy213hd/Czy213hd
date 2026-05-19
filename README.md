@@ -1,5 +1,5 @@
 ## Hi there 👋! I'm Zhongyu Chen.
-- 🌱 I’m currently learning robotics, especially in loco-manipulation and whole-body-control.
+- 🌱 I’m currently learning robotics, especially interested in loco-manipulation and whole-body-control.
 - 📫 How to reach me: chenzhongyu56@gmail.com
 
 <!--
