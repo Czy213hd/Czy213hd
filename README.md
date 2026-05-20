@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning robotics, especially interested in loco-manipulation and whole-body-control.
 - 🔭 I’m currently working on reinforcement learning and sim-to-real deployment for quadruped robots with robotic arms.
 - 📫 How to reach me: chenzhongyu56@gmail.com
+- 😄 Personal website: https://czy213hd.github.io
 
 <!--
 **Czy213hd/Czy213hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
