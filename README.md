@@ -1,4 +1,4 @@
-## Hi there 👋! I'm Zhongyu Chen.
+## Hi there 👋! I'm Zhongyu Chen（陈中瑜）
 - 🌱 I’m currently learning robotics, especially interested in loco-manipulation and whole-body-control.
 - 🔭 I’m currently working on reinforcement learning and sim-to-real deployment for quadruped robots with robotic arms.
 - 📫 How to reach me: chenzhongyu56@gmail.com
