@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on reinforcement learning and sim-to-real deployment for bipedal robots with robotic arms.
 - 📫 How to reach me: chenzhongyu56@gmail.com
 - 😄 Personal website: https://czy213hd.github.io
+- ⚡ Fun fact: I do all kinds of sports
 
 <!--
 **Czy213hd/Czy213hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
