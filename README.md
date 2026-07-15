@@ -1,10 +1,26 @@
-## Hi there 👋! I'm Zhongyu Chen（陈中瑜）
-## 🌱About Me
-- 🌱 I’m currently learning robotics, especially interested in loco-manipulation and whole-body-control.
+<h1 align="center">
+  Hi there 👋! I'm Zhongyu Chen（陈中瑜）
+</h1>
+
+<p align="center">
+  <img src="./ZJU.png"
+       alt="Zhejiang University"
+       height="110">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="./UIUC.png"
+       alt="University of Illinois Urbana-Champaign"
+       height="110">
+</p>
+
+## 🌱 About Me
+
+- 🌱 I’m currently learning robotics, especially interested in loco-manipulation and whole-body control.
 - 🔭 I’m currently working on reinforcement learning and sim-to-real deployment for bipedal robots with robotic arms.
-- 📫 How to reach me: chenzhongyu56@gmail.com
-- 😄 Personal website: https://czy213hd.github.io
-- ⚡ Fun fact: I do all kinds of sports
+- 📫 How to reach me: [chenzhongyu56@gmail.com](mailto:chenzhongyu56@gmail.com)
+- 😄 Personal website: [https://czy213hd.github.io](https://czy213hd.github.io)
+- ⚡ Fun fact: I do all kinds of sports.
 
 <!--
 **Czy213hd/Czy213hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
