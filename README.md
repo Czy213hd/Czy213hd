@@ -2,7 +2,7 @@
   Hi there 👋! I'm Zhongyu Chen（陈中瑜）
 </h1>
 
-<p align="center"><img src="./ZJU.png" alt="Zhejiang University" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./UIUC.png" alt="University of Illinois Urbana-Champaign" width="150"></p>
+<p align="center"><img src="./ZJU.png" alt="Zhejiang University" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./UIUC.png" alt="University of Illinois Urbana-Champaign" width="140"></p>
 
 ## 🌱 About Me
 
