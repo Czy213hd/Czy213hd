@@ -7,7 +7,7 @@
 ## 🌱 About Me
 
 - 🌱 I’m currently learning robotics, especially interested in loco-manipulation and whole-body control.
-- 🔭 I’m currently working on reinforcement learning and sim-to-real deployment for bipedal robots with robotic arms.
+- 🔭 I’m currently working on reinforcement learning and sim-to-real deployment for bipedal and quadruple robots with robotic arms.
 - 📫 How to reach me: [chenzhongyu56@gmail.com](mailto:chenzhongyu56@gmail.com)
 - 😄 Personal website: [czy213hd.github.io](https://czy213hd.github.io)
 - ⚡ Fun fact: I do all kinds of sports.
