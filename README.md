@@ -40,5 +40,3 @@ Here are some ideas to get you started:
 <img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Czy213hd&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 
 </div>
-  />
-</p>
