@@ -31,13 +31,20 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Czy213hd&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em"
-       src="https://streak-stats.demolab.com/?user=Czy213hd" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Czy213hd&show_icons=true&include_all_commits=true"
+    height="180"
+  />
+  
+  <img
+    src="https://streak-stats.demolab.com/?user=Czy213hd"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czy213hd&layout=compact&langs_count=8" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=Czy213hd&layout=compact&langs_count=8"
+    height="180"
+  />
 </p>
