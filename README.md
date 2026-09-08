@@ -9,7 +9,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./hawkrobo.png" alt="HawkRobo" height="65">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./agibot.png" alt="AgiBot" height="65">
+  <img src="./agibot.png" alt="AgiBot" height="50">
 </p>
 
 ## 🌱 About Me
