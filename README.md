@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="./ZJU.png" alt="Zhejiang University" height="65">
+  <img src="./ZJU.png" alt="Zhejiang University" height="70">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./UIUC.png" alt="University of Illinois Urbana-Champaign" height="65">
+  <img src="./UIUC.png" alt="University of Illinois Urbana-Champaign" height="70">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./hawkrobo.png" alt="HawkRobo" height="65">
+  <img src="./hawkrobo.png" alt="HawkRobo" height="70">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./agibot.png" alt="AgiBot" height="60">
 </p>
