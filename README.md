@@ -35,16 +35,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=Czy213hd&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" />
-<img width="48%" src="https://streak-stats.demolab.com/?user=Czy213hd&hide_border=true&theme=transparent" />
-
-<br/><br/>
-
-<img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs?username=Czy213hd&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-
-</div>
